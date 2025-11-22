@@ -1,6 +1,6 @@
 # INFNOVA GROUP7 -- Tech Company
 
-## 🌐 Live Demo: 
+##  Live Demo: 
 
 `https://ifnova-group7-tech-company.netlify.app/`
 
